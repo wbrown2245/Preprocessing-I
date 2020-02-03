@@ -175,3 +175,6 @@ header {
 .container div {
   font-weight: bold ;
 }
+.color {
+	background-color: grey;
+}
